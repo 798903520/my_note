@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e3a60315d1ea8c",
+        "id": "379a5128d8902ea2",
         "type": "tabs",
         "children": [
           {
-            "id": "0845eea6e661d44b",
+            "id": "893a3e3b5ffad037",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "前端/获取元素到可视区域顶部距离.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "1e9f3ad812cafbc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.5
   },
   "right": {
     "id": "f6e269038ec69625",
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "前端/获取元素到可视区域顶部距离.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "前端/获取元素到可视区域顶部距离.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "前端/获取元素到可视区域顶部距离.md"
+              }
             }
           }
         ]
@@ -130,25 +146,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0845eea6e661d44b",
+  "active": "893a3e3b5ffad037",
   "lastOpenFiles": [
-    "nodejs解决跨域问题.md",
+    "项目总结/当前项目.md",
+    "前端/元素是否出现在可视区域.md",
+    "前端/span多行,超出省略号.md",
+    "node/nodejs解决跨域问题.md",
     "README.md",
+    "前端/一定范围内随机数.md",
+    "前端/拖动条修改.md",
+    "前端/浏览器中鼠标指针位置设置.md",
+    "前端/节流.md",
+    "前端/渐变文字，渐变背景.md",
+    "前端/监听是否滚动到底部.md",
+    "前端/获取元素到可视区域顶部距离.md",
+    "前端/滚动到底部方法.md",
+    "前端/点击选择文件上传(原生).md",
+    "前端/点击下载.md",
+    "前端/点击自定义按钮复制.md",
+    "未命名.canvas",
+    "项目总结",
+    "nodejs解决跨域问题.md",
     "span多行,超出省略号.md",
     "拖动条修改.md",
     "点击选择文件上传(原生).md",
     "监听是否滚动到底部.md",
     "节流.md",
-    "点击下载.md",
-    "点击自定义按钮复制.md",
-    "渐变文字，渐变背景.md"
+    "点击下载.md"
   ]
 }

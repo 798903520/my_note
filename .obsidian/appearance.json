@@ -1,5 +1,6 @@
 {
-  "accentColor": "",
+  "accentColor": "#428bff",
   "theme": "moonstone",
-  "monospaceFontFamily": "Monaco"
+  "monospaceFontFamily": "Monaco",
+  "translucency": false
 }
